@@ -1,6 +1,7 @@
 # terrafrom_docker
+# terrafrom fmt -> to format code 
 
-# just validate code
+# terrafrom validate -> just validate code
 
 # terraform init -> to dowonload terraform provider information
 
